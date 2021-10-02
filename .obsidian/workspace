@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "732ccb5e7020cef4",
+    "type": "split",
+    "children": [
+      {
+        "id": "3fce2a4cd4d6c6e1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "深入理解Logistic Loss.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b8513498fd3538eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "984b2ff92b853fa5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c42ceaa4cfb75cc2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6dd66ec2377aa29d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b7314282d957be31",
+    "type": "split",
+    "children": [
+      {
+        "id": "0755836e2a9b6522",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3dced5c5aea81ae",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "深入理解Logistic Loss.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3fce2a4cd4d6c6e1",
+  "lastOpenFiles": [
+    "深入理解Logistic Loss.md",
+    "深入理解Logistic Loss.pdf",
+    "README.md"
+  ]
+}
